@@ -12,10 +12,10 @@ Evaluate the model's performance on each sample using the best hyperparameters f
 ## **2. Output**
 1. Table
    <br>
-   <img src = "" />
+   <img src = "https://github.com/BhavyaBhalla-27/Assignment-8_Parameter-Optimization-Using-SVM/assets/114859167/518eb426-eba0-4974-baf9-3d7c6a6f6539" />
 2. Convergence Graph
    <br>
-   <img src = "" />
+   <img src = "https://github.com/BhavyaBhalla-27/Assignment-8_Parameter-Optimization-Using-SVM/assets/114859167/e41d6e53-37ba-4c1b-b232-235bd03c515a" />
 ## **Details**
 Name - Bhavya Bhalla 
 <br>
