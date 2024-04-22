@@ -1,4 +1,4 @@
-# Title : Parameter Optimization Using SVM
+# Title : Parameter Optimization of SVM
 Dataset Used : <a href = "https://archive.ics.uci.edu/dataset/602/dry+bean+dataset">Dry Bean Dataset </a> <br>
 Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
 ## **1. Methodology**
